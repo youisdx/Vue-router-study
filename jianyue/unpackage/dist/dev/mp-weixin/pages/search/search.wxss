@@ -1,0 +1,26 @@
+
+.search{
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	width:90% ;
+	height:60rpx;
+	border:1px solid #000000;
+	border-radius: 20px;
+}
+.text1{
+	width:80%;
+	height:40rpx;
+	border-right: 1px solid #B2B2B2;
+	margin-top: 5rpx;
+	margin-left: 10rpx;
+}
+.img{
+	width:50rpx;
+	height:50rpx;
+	margin-left:20rpx;
+	margin-top:5rpx;
+}
+
+

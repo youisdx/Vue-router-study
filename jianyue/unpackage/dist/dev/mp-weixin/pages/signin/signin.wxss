@@ -1,0 +1,23 @@
+
+._input.data-v-69a27a59 {
+	height: 50px;
+	margin-bottom: 8px;
+	border: 1px solid #eee;
+	border-radius: 5px;
+}
+.a.data-v-69a27a59{
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	margin-top:10px;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	color:#0A98D5;
+}
+.texts.data-v-69a27a59{
+	margin-right:10px;
+}
+

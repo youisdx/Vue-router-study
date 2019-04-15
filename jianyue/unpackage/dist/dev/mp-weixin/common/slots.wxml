@@ -1,0 +1,6 @@
+<import src="/graceUI/components/graceMaskView.vue.wxml" />
+<import src="/common/slots.wxml" />
+<import src="/graceUI/components/graceLoading.vue.wxml" />
+
+<template name="data-v-179ffe7f-default-a9417142-3-+index"><view class="_view data-v-179ffe7f"><image src="../../static/default.png" style="width:100%; margin-top:25px; border-top-right-radius:5px; border-top-left-radius:5px;" mode="widthFix" class="_image data-v-179ffe7f"></image></view><view style="padding:25px; padding-bottom:30px;" class="_view data-v-179ffe7f"><button type="warn" style="background:#F6644D; padding:0 20px;" class="_button data-v-179ffe7f">一个按钮</button></view></template>
+

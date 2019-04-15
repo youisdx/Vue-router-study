@@ -1,0 +1,1 @@
+<template name="65919679"><view class="_view 65919679"><input type="text" value="" bindinput="handleProxy" required="required" data-eventid="{{'65919679-0'}}" data-comkey="{{$k}}" class="_input 65919679" /><button bindtap="handleProxy" class="_button 65919679 btn" data-eventid="{{'65919679-1'}}" data-comkey="{{$k}}">确认</button></view></template>
